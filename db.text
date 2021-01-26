@@ -1,0 +1,15 @@
+tabella: Automobili_usate
+
+id: numero =>
+casa_automobilistica: stringa =>
+concessionaria_posseditrice: stringa =>
+targa: stringa =>
+numero_telaio: stringa =>
+colore: stringa =>
+km_percorsi: numero =>
+difetti_superficiali: booleano =>
+optional_auto: stringa =>
+prezzo: numero =>
+anno_immatricolazione: numero =>
+numero_precedenti_proprietari: numero =>
+tagliandi_regolari: booleano =>
