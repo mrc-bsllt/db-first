@@ -10,6 +10,7 @@ tipo-vernice: stringa => VARCHAR(30) - NULL
 foto: stringa => TEXT - NOTNULL - UNIQUE
 km_percorsi: numero => MEDIUMINT - NOTNULL
 potenza: stringa => VARCHART(30) - NOTNULL
+numero_porte: numero => TINYINT NOTNULL
 carburante: stringa => VARCHAR(50) - NOTNULL
 difetti_superficiali: booleano => TINYINT - NOTNULL
 optional_auto: stringa => VARCHAR(200) - NULL
