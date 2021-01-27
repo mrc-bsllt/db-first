@@ -1,6 +1,6 @@
 tabella: Automobili_usate
 
-id: numero => PRIMARY_KEY
+id: numero => PRIMARY_KEY - AUTO_INCREMENT
 casa_automobilistica: stringa => VARCHAR(50) - NOTNULL
 concessionaria_posseditrice: stringa => VARCHAR(100) - NOTNULL
 targa: stringa => CHAR(7) - NOTNULL - UNIQUE
